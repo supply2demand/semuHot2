@@ -205,9 +205,9 @@ class MainWindow(QMainWindow):
 
         # 기본 단축키
         default_shortcuts = {
-            "불러오기": "",
-            "핫스트링 활성화": "",
-            "현재 카테고리": "",
+            "불러오기": "Ctrl+O",
+            "핫스트링 활성화": "Ctrl+W",
+            "현재 카테고리": "Ctrl+Tab",
             "찾기": "Ctrl+F",
             "프로그램 종료": "Ctrl+Q"
         }
